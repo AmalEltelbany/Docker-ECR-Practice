@@ -48,6 +48,3 @@ This screenshot show the simple app
 . **Access the application**:
     - The app should be accessible via `http://localhost:your-app-port`
     - Mongo Express can be accessed via `http://localhost:your-mongo-express-port`
-
-
--
