@@ -39,13 +39,12 @@ This screenshot show the simple app
 
 
 
- . **Run the application using Docker Compose**:
+  **Run the application using Docker Compose**:
     ```bash
     docker-compose  docker-compose.yaml up 
     ```
 
     This will start all three containers: the app, MongoDB, and Mongo Express.
-
 . **Access the application**:
     - The app should be accessible via `http://localhost:your-app-port`
     - Mongo Express can be accessed via `http://localhost:your-mongo-express-port`
